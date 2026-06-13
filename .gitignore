@@ -1,0 +1,23 @@
+# Firebase Admin SDK
+serviceAccountKey.json
+firebase-admin*.json
+*service-account*.json
+
+# Environment files
+.env
+.env.*
+
+# Google Cloud credentials
+credentials.json
+
+# Flutter
+.dart_tool/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
