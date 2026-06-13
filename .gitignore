@@ -1,23 +1,46 @@
-# Firebase Admin SDK
+# -------------------------
+# Firebase / Secrets
+# -------------------------
 serviceAccountKey.json
 firebase-admin*.json
 *service-account*.json
+credentials.json
 
+# -------------------------
 # Environment files
+# -------------------------
 .env
 .env.*
 
-# Google Cloud credentials
-credentials.json
-
+# -------------------------
 # Flutter
+# -------------------------
 .dart_tool/
 build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
 
+# -------------------------
 # IDE
+# -------------------------
 .vscode/
 .idea/
+*.iml
 
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
 # OS
+# -------------------------
 .DS_Store
 Thumbs.db
+
+# -------------------------
+# Node (if used)
+# -------------------------
+node_modules/
+package-lock.json
