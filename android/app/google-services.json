@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683962247948",
+    "project_id": "toice-app",
+    "storage_bucket": "toice-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683962247948:android:1fc55eebff3169b75b3729",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiK2MlJT1rPWxrK1hDId9tLaJCnDMdtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
